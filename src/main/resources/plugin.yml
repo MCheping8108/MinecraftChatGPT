@@ -1,0 +1,14 @@
+name: MinecraftChatGPT
+version: '1.0-BETA'
+main: top.peacefuly.minecraftChatGPT.MinecraftChatGPT
+api-version: '1.21'
+authors: [和平peaceful]
+description: 在Minecraft中使用ChatGPT聊天
+website: www.peacefuly.top
+commands:
+  chat:
+    description: 在Minecraft中使用ChatGPT聊天
+    usage: /chat <question>
+  reload:
+    description: config reload
+    permission: minecraftchatgpt.reload
