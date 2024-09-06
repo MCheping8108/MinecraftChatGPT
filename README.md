@@ -3,3 +3,6 @@
 
 ## 使用方法
 安装插件后在服务器聊天框输入`/chat <文字内容>`即可
+
+## 特别感谢
+[Plexpt](https://github.com/plexpt/chatgpt-java)的ChatGPT插件
